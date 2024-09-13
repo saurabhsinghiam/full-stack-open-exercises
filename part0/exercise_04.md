@@ -1,4 +1,5 @@
 ```mermaid
+swquenceDiagram
     participant browser
     participant server
 
